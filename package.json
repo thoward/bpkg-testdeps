@@ -1,0 +1,6 @@
+{
+  "name": "howdy",
+  "version": "0.0.1",
+  "description": "Says howdy.",
+  "scripts": [ "howdy.sh" ]
+}
