@@ -1,10 +1,9 @@
 {
   "name": "howdy",
   "version": "0.0.1",
-  "description": "Says howdy.",
+  "description": "Says howdy, in color.",
   "scripts": [ "howdy.sh" ],
   "dependencies": {
-    "term": "0.0.1",
-    "json.sh": "master"
+    "term": "0.0.1"
   }
 }
