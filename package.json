@@ -4,6 +4,7 @@
   "description": "Says howdy.",
   "scripts": [ "howdy.sh" ],
   "dependencies": {
-    "bpkg/term": "master"
+    "term": "0.0.1",
+    "json.sh": "master"
   }
 }
