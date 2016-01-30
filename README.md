@@ -1,2 +1,2 @@
-# bpkg-testdeps
-A little example package to test bpkg require/dependency crawl.
+# howdy
+A little example bash package for testing bpkg.
